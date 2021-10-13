@@ -1,4 +1,4 @@
-# test-project
+# Nuxt-tailwind-CSS-simple-app
 
 ## Build Setup
 
